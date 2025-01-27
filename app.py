@@ -155,6 +155,6 @@ def download():
         return "File not found", 404
 
 if __name__ == '__main__':
-    os.makedirs("uploads", exist_ok=True)
-    os.makedirs("downloads", exist_ok=True)
+    # os.makedirs("uploads", exist_ok=True)
+    # os.makedirs("downloads", exist_ok=True)
     app.run(debug=True)
