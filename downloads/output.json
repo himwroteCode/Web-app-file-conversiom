@@ -1,0 +1,1917 @@
+{
+  "cid": {
+    "C00001": {
+      "employees": [
+        {
+          "ee_id": "EE005114",
+          "gross_pay": 1000,
+          "state": "Alabama",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Weekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 858.8,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 80.0
+            },
+            {
+              "social_security_tax": 49.6
+            },
+            {
+              "medicare_tax": 11.6
+            },
+            {
+              "state_tax": 0.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 50,
+          "is_blind": true,
+          "is_spouse_blind": true,
+          "spouse_age": 39,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 1,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "student default loan",
+              "data": [
+                {
+                  "case_id": "C13278",
+                  "amount": 200,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C13278",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005692",
+          "gross_pay": 1000,
+          "state": "Arkansas",
+          "no_of_exemption_for_self": 4,
+          "pay_period": "Weekly",
+          "filing_status": "head_of_household",
+          "net_pay": 823.5,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 100.0
+            },
+            {
+              "social_security_tax": 62.0
+            },
+            {
+              "medicare_tax": 14.5
+            },
+            {
+              "state_tax": 0.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 58,
+          "is_blind": true,
+          "is_spouse_blind": true,
+          "spouse_age": 36,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C81482",
+                  "amount": 150,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C81482",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005223",
+          "gross_pay": 1200,
+          "state": "Colorado",
+          "no_of_exemption_for_self": 3,
+          "pay_period": "Weekly",
+          "filing_status": "married_filing_separate",
+          "net_pay": 937.2,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 120.0
+            },
+            {
+              "social_security_tax": 74.4
+            },
+            {
+              "medicare_tax": 17.4
+            },
+            {
+              "state_tax": 36.0
+            },
+            {
+              "local_tax": 15.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 47,
+          "is_blind": true,
+          "is_spouse_blind": false,
+          "spouse_age": 18,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "Yes",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C40495",
+                  "amount": 80,
+                  "arrear": 10
+                },
+                {
+                  "case_id": "C40495",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005665",
+          "gross_pay": 950,
+          "state": "Delaware",
+          "no_of_exemption_for_self": 2,
+          "pay_period": "Weekly",
+          "filing_status": "head_of_household",
+          "net_pay": 782.3,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 95.0
+            },
+            {
+              "social_security_tax": 58.9
+            },
+            {
+              "medicare_tax": 13.8
+            },
+            {
+              "state_tax": 0.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 50,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 21,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C81426",
+                  "amount": 100,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C81426",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005890",
+          "gross_pay": 1100,
+          "state": "Florida",
+          "no_of_exemption_for_self": 5,
+          "pay_period": "Weekly",
+          "filing_status": "married_filing_joint",
+          "net_pay": 862.85,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 110.0
+            },
+            {
+              "social_security_tax": 68.2
+            },
+            {
+              "medicare_tax": 15.95
+            },
+            {
+              "state_tax": 33.0
+            },
+            {
+              "local_tax": 10.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 39,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 43,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C10851",
+                  "amount": 70,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C10851",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005220",
+          "gross_pay": 1300,
+          "state": "Georgia",
+          "no_of_exemption_for_self": 8,
+          "pay_period": "Weekly",
+          "filing_status": "married_filing_joint",
+          "net_pay": 1016.55,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 130.0
+            },
+            {
+              "social_security_tax": 80.6
+            },
+            {
+              "medicare_tax": 18.85
+            },
+            {
+              "state_tax": 42.0
+            },
+            {
+              "local_tax": 12.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 30,
+          "is_blind": true,
+          "is_spouse_blind": false,
+          "spouse_age": 63,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C54118",
+                  "amount": 120,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C54118",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005352",
+          "gross_pay": 900,
+          "state": "Hawaii",
+          "no_of_exemption_for_self": 6,
+          "pay_period": "Weekly",
+          "filing_status": "married_filing_joint",
+          "net_pay": 711.15,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 90.0
+            },
+            {
+              "social_security_tax": 55.8
+            },
+            {
+              "medicare_tax": 13.05
+            },
+            {
+              "state_tax": 25.0
+            },
+            {
+              "local_tax": 5.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 26,
+          "is_blind": true,
+          "is_spouse_blind": false,
+          "spouse_age": 25,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C89131",
+                  "amount": 135,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C89131",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005127",
+          "gross_pay": 850,
+          "state": "Illinois",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Weekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 668.97,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 85.0
+            },
+            {
+              "social_security_tax": 52.7
+            },
+            {
+              "medicare_tax": 12.33
+            },
+            {
+              "state_tax": 24.0
+            },
+            {
+              "local_tax": 7.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 43,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 39,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C59615",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C59615",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005906",
+          "gross_pay": 1000,
+          "state": "Indiana",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Weekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 788.5,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 100.0
+            },
+            {
+              "social_security_tax": 62.0
+            },
+            {
+              "medicare_tax": 14.5
+            },
+            {
+              "state_tax": 35.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 21,
+          "is_blind": true,
+          "is_spouse_blind": false,
+          "spouse_age": 46,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "Yes",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C57400",
+                  "amount": 120,
+                  "arrear": 15
+                },
+                {
+                  "case_id": "C57400",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005791",
+          "gross_pay": 1200,
+          "state": "Kansas",
+          "no_of_exemption_for_self": 2,
+          "pay_period": "Weekly",
+          "filing_status": "married_filing_separate",
+          "net_pay": 993.3,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 95.0
+            },
+            {
+              "social_security_tax": 58.9
+            },
+            {
+              "medicare_tax": 13.8
+            },
+            {
+              "state_tax": 29.0
+            },
+            {
+              "local_tax": 10.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 26,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 33,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 1,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "student default loan",
+              "data": [
+                {
+                  "case_id": "C47930",
+                  "amount": 350,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C47930",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005284",
+          "gross_pay": 3000,
+          "state": "Kentucky",
+          "no_of_exemption_for_self": 2,
+          "pay_period": "Weekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 2722.6,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 180.0
+            },
+            {
+              "social_security_tax": 62.0
+            },
+            {
+              "medicare_tax": 12.4
+            },
+            {
+              "state_tax": 23.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 19,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 30,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 1,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C69429",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C69429",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005273",
+          "gross_pay": 4000,
+          "state": "Alabama",
+          "no_of_exemption_for_self": 2,
+          "pay_period": "Biweekly",
+          "filing_status": "married_filing_joint",
+          "net_pay": 3655.5,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 250.0
+            },
+            {
+              "social_security_tax": 56.0
+            },
+            {
+              "medicare_tax": 13.5
+            },
+            {
+              "state_tax": 25.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 41,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 52,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 2,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "student default loan",
+              "data": [
+                {
+                  "case_id": "C99593",
+                  "amount": 250,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C99593",
+                  "amount": 300,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005167",
+          "gross_pay": 5000,
+          "state": "Maryland",
+          "no_of_exemption_for_self": 4,
+          "pay_period": "Weekly",
+          "filing_status": "head_of_household",
+          "net_pay": 4733.0,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 180.0
+            },
+            {
+              "social_security_tax": 45.0
+            },
+            {
+              "medicare_tax": 12.0
+            },
+            {
+              "state_tax": 30.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 22,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 37,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C70589",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C70589",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005863",
+          "gross_pay": 2500,
+          "state": "Massachusetts",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Weekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 2223.0,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 200.0
+            },
+            {
+              "social_security_tax": 32.0
+            },
+            {
+              "medicare_tax": 20.0
+            },
+            {
+              "state_tax": 12.0
+            },
+            {
+              "local_tax": 13.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 64,
+          "is_blind": true,
+          "is_spouse_blind": false,
+          "spouse_age": 30,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 2,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C17331",
+                  "amount": 120,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C17331",
+                  "amount": 150,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005274",
+          "gross_pay": 1500,
+          "state": "Minnesota",
+          "no_of_exemption_for_self": 3,
+          "pay_period": "Biweekly",
+          "filing_status": "head_of_household",
+          "net_pay": 1233.68,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 140.0
+            },
+            {
+              "social_security_tax": 73.0
+            },
+            {
+              "medicare_tax": 15.32
+            },
+            {
+              "state_tax": 33.0
+            },
+            {
+              "local_tax": 5.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 47,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 59,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C18675",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C18675",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005405",
+          "gross_pay": 1800,
+          "state": "Mississippi",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Monthly",
+          "filing_status": "married_filing_separate",
+          "net_pay": 1470.06,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 230.0
+            },
+            {
+              "social_security_tax": 55.0
+            },
+            {
+              "medicare_tax": 17.94
+            },
+            {
+              "state_tax": 20.0
+            },
+            {
+              "local_tax": 7.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 61,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 52,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C94259",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C94259",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005574",
+          "gross_pay": 1700,
+          "state": "Nebraska",
+          "no_of_exemption_for_self": 2,
+          "pay_period": "Monthly",
+          "filing_status": "married_filing_joint",
+          "net_pay": 1333.2,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 300.0
+            },
+            {
+              "social_security_tax": 35.8
+            },
+            {
+              "medicare_tax": 18.0
+            },
+            {
+              "state_tax": 13.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 48,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 57,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 2,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C80644",
+                  "amount": 140,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C80644",
+                  "amount": 130,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005408",
+          "gross_pay": 2600,
+          "state": "New Hampshire",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Semimonthly",
+          "filing_status": "head_of_household",
+          "net_pay": 2238.0,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 260.0
+            },
+            {
+              "social_security_tax": 35.0
+            },
+            {
+              "medicare_tax": 20.0
+            },
+            {
+              "state_tax": 35.0
+            },
+            {
+              "local_tax": 12.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 47,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 44,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C57447",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C57447",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005048",
+          "gross_pay": 1400,
+          "state": "New Jersey",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Semimonthly",
+          "filing_status": "married_filing_joint",
+          "net_pay": 1169.5,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 160.0
+            },
+            {
+              "social_security_tax": 45.0
+            },
+            {
+              "medicare_tax": 10.5
+            },
+            {
+              "state_tax": 15.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 53,
+          "is_blind": false,
+          "is_spouse_blind": true,
+          "spouse_age": 61,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 2,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "student default loan",
+              "data": [
+                {
+                  "case_id": "C24371",
+                  "amount": 400,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C24371",
+                  "amount": 300,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005610",
+          "gross_pay": 1300,
+          "state": "New York",
+          "no_of_exemption_for_self": 9,
+          "pay_period": "Weekly",
+          "filing_status": "head_of_household",
+          "net_pay": 1109.32,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 59.8
+            },
+            {
+              "social_security_tax": 99.2
+            },
+            {
+              "medicare_tax": 12.18
+            },
+            {
+              "state_tax": 10.6
+            },
+            {
+              "local_tax": 8.9
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 47,
+          "is_blind": true,
+          "is_spouse_blind": false,
+          "spouse_age": 21,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 2,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C18326",
+                  "amount": 80,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C18326",
+                  "amount": 60,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005257",
+          "gross_pay": 2300,
+          "state": "Ohio",
+          "no_of_exemption_for_self": 7,
+          "pay_period": "Weekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 2090.34,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 60.0
+            },
+            {
+              "social_security_tax": 78.9
+            },
+            {
+              "medicare_tax": 45.76
+            },
+            {
+              "state_tax": 13.0
+            },
+            {
+              "local_tax": 12.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 53,
+          "is_blind": true,
+          "is_spouse_blind": false,
+          "spouse_age": 32,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 2,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C82512",
+                  "amount": 80,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C82512",
+                  "amount": 90,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005768",
+          "gross_pay": 3350,
+          "state": "Oklahoma",
+          "no_of_exemption_for_self": 4,
+          "pay_period": "Biweekly",
+          "filing_status": "head_of_household",
+          "net_pay": 3208.8,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 80.0
+            },
+            {
+              "social_security_tax": 49.6
+            },
+            {
+              "medicare_tax": 11.6
+            },
+            {
+              "state_tax": 0.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 63,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 57,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C44973",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C44973",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005003",
+          "gross_pay": 4050,
+          "state": "Pennsylvania",
+          "no_of_exemption_for_self": 7,
+          "pay_period": "Semimonthly",
+          "filing_status": "married_filing_joint",
+          "net_pay": 3873.5,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 100.0
+            },
+            {
+              "social_security_tax": 62.0
+            },
+            {
+              "medicare_tax": 14.5
+            },
+            {
+              "state_tax": 0.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 65,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 49,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 2,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "student default loan",
+              "data": [
+                {
+                  "case_id": "C44522",
+                  "amount": 200,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C44522",
+                  "amount": 350,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005891",
+          "gross_pay": 6000,
+          "state": "Rhode Island",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Semimonthly",
+          "filing_status": "single_filing_status",
+          "net_pay": 5737.2,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 120.0
+            },
+            {
+              "social_security_tax": 74.4
+            },
+            {
+              "medicare_tax": 17.4
+            },
+            {
+              "state_tax": 36.0
+            },
+            {
+              "local_tax": 15.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 49,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 57,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C91959",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C91959",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005382",
+          "gross_pay": 2900,
+          "state": "Alabama",
+          "no_of_exemption_for_self": 10,
+          "pay_period": "Weekly",
+          "filing_status": "married_filing_separate",
+          "net_pay": 2732.3,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 95.0
+            },
+            {
+              "social_security_tax": 58.9
+            },
+            {
+              "medicare_tax": 13.8
+            },
+            {
+              "state_tax": 0.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 21,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 51,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 2,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "student default loan",
+              "data": [
+                {
+                  "case_id": "C31174",
+                  "amount": 450,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C31174",
+                  "amount": 500,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005687",
+          "gross_pay": 1800,
+          "state": "Utah",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Biweekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 1522.6,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 180.0
+            },
+            {
+              "social_security_tax": 62.0
+            },
+            {
+              "medicare_tax": 12.4
+            },
+            {
+              "state_tax": 23.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 51,
+          "is_blind": true,
+          "is_spouse_blind": false,
+          "spouse_age": 39,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 1,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "student default loan",
+              "data": [
+                {
+                  "case_id": "C82512",
+                  "amount": 200,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C82512",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005230",
+          "gross_pay": 2500,
+          "state": "Illinois",
+          "no_of_exemption_for_self": 2,
+          "pay_period": "Weekly",
+          "filing_status": "married_filing_joint",
+          "net_pay": 2155.5,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 250.0
+            },
+            {
+              "social_security_tax": 56.0
+            },
+            {
+              "medicare_tax": 13.5
+            },
+            {
+              "state_tax": 25.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 26,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 36,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C44973",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C44973",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005225",
+          "gross_pay": 1800,
+          "state": "Virginia",
+          "no_of_exemption_for_self": 3,
+          "pay_period": "Weekly",
+          "filing_status": "married_filing_joint",
+          "net_pay": 1533.0,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 180.0
+            },
+            {
+              "social_security_tax": 45.0
+            },
+            {
+              "medicare_tax": 12.0
+            },
+            {
+              "state_tax": 30.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 49,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 18,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C44522",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C44522",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005880",
+          "gross_pay": 2000,
+          "state": "Wisconsin",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Monthly",
+          "filing_status": "single_filing_status",
+          "net_pay": 1723.0,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 200.0
+            },
+            {
+              "social_security_tax": 32.0
+            },
+            {
+              "medicare_tax": 20.0
+            },
+            {
+              "state_tax": 12.0
+            },
+            {
+              "local_tax": 13.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 23,
+          "is_blind": true,
+          "is_spouse_blind": false,
+          "spouse_age": 21,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 1,
+          "arrears_greater_than_12_weeks": "Yes",
+          "garnishment_data": [
+            {
+              "type": "student default loan",
+              "data": [
+                {
+                  "case_id": "C91959",
+                  "amount": 350,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C91959",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005219",
+          "gross_pay": 1400,
+          "state": "Alabama",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Biweekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 1133.68,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 140.0
+            },
+            {
+              "social_security_tax": 73.0
+            },
+            {
+              "medicare_tax": 15.32
+            },
+            {
+              "state_tax": 33.0
+            },
+            {
+              "local_tax": 5.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 40,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 43,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "Yes",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C31174",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C31174",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005803",
+          "gross_pay": 2300,
+          "state": "Arkansas",
+          "no_of_exemption_for_self": 2,
+          "pay_period": "Biweekly",
+          "filing_status": "married_filing_separate",
+          "net_pay": 1970.06,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 230.0
+            },
+            {
+              "social_security_tax": 55.0
+            },
+            {
+              "medicare_tax": 17.94
+            },
+            {
+              "state_tax": 20.0
+            },
+            {
+              "local_tax": 7.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 59,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 63,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "Yes",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C74042",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C74042",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005362",
+          "gross_pay": 4000,
+          "state": "Colorado",
+          "no_of_exemption_for_self": 2,
+          "pay_period": "Monthly",
+          "filing_status": "head_of_household",
+          "net_pay": 3633.2,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 300.0
+            },
+            {
+              "social_security_tax": 35.8
+            },
+            {
+              "medicare_tax": 18.0
+            },
+            {
+              "state_tax": 13.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 53,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 25,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C50306",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C50306",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005100",
+          "gross_pay": 2600,
+          "state": "Delaware",
+          "no_of_exemption_for_self": 4,
+          "pay_period": "Semimonthly",
+          "filing_status": "head_of_household",
+          "net_pay": 2238.0,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 260.0
+            },
+            {
+              "social_security_tax": 35.0
+            },
+            {
+              "medicare_tax": 20.0
+            },
+            {
+              "state_tax": 35.0
+            },
+            {
+              "local_tax": 12.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 24,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 39,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "Yes",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C73699",
+                  "amount": 0,
+                  "arrear": 20
+                },
+                {
+                  "case_id": "C73699",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005254",
+          "gross_pay": 1600,
+          "state": "Florida",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Semimonthly",
+          "filing_status": "single_filing_status",
+          "net_pay": 1369.5,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 160.0
+            },
+            {
+              "social_security_tax": 45.0
+            },
+            {
+              "medicare_tax": 10.5
+            },
+            {
+              "state_tax": 15.0
+            },
+            {
+              "local_tax": 0.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 41,
+          "is_blind": false,
+          "is_spouse_blind": false,
+          "spouse_age": 46,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "No",
+          "garnishment_data": [
+            {
+              "type": "Federal Tax Levy",
+              "data": [
+                {
+                  "case_id": "C72296",
+                  "amount": 0,
+                  "arrear": 0
+                },
+                {
+                  "case_id": "C72296",
+                  "amount": 0,
+                  "arrear": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005255",
+          "gross_pay": 1000,
+          "state": "Georgia",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Weekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 809.3199999999999,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 59.8
+            },
+            {
+              "social_security_tax": 99.2
+            },
+            {
+              "medicare_tax": 12.18
+            },
+            {
+              "state_tax": 10.6
+            },
+            {
+              "local_tax": 8.9
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 41,
+          "is_blind": false,
+          "is_spouse_blind": true,
+          "spouse_age": 46,
+          "support_second_family": "Yes",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "Yes",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C72297",
+                  "amount": 50,
+                  "arrear": 25
+                },
+                {
+                  "case_id": "C72297",
+                  "amount": 60,
+                  "arrear": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ee_id": "EE005256",
+          "gross_pay": 1500,
+          "state": "Hawaii",
+          "no_of_exemption_for_self": 1,
+          "pay_period": "Weekly",
+          "filing_status": "single_filing_status",
+          "net_pay": 1290.34,
+          "payroll_taxes": [
+            {
+              "federal_income_tax": 60.0
+            },
+            {
+              "social_security_tax": 78.9
+            },
+            {
+              "medicare_tax": 45.76
+            },
+            {
+              "state_tax": 13.0
+            },
+            {
+              "local_tax": 12.0
+            }
+          ],
+          "payroll_deductions": {
+            "medical_insurance": 0
+          },
+          "age": 41,
+          "is_blind": false,
+          "is_spouse_blind": true,
+          "spouse_age": 46,
+          "support_second_family": "No",
+          "no_of_student_default_loan": 0,
+          "arrears_greater_than_12_weeks": "Yes",
+          "garnishment_data": [
+            {
+              "type": "Child Support",
+              "data": [
+                {
+                  "case_id": "C72298",
+                  "amount": 400,
+                  "arrear": 35
+                },
+                {
+                  "case_id": "C72298",
+                  "amount": 450,
+                  "arrear": 25
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "batch_id": "B001A"
+}
